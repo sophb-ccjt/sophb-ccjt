@@ -28,6 +28,8 @@ if you're too uncomfortable with any of these, i recommend not working with me l
 - CSS
 - A reasonable bit of Python
 
+as a side-note: i'm looking forward to learning C#, then C, and then Assembly Language. lower-level JS just really doesn't scratch my itch, y'know?
+
 ## my interests
 - i'm interested in:
   - dynamic systems
