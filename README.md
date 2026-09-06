@@ -1,4 +1,4 @@
-hi, i'm Sophia, but you can call me by Soph, and i go by [she/they](https://en.pronouns.page/@sophb.ccjt) pronouns.
+hi, i'm Sophia, but you can call me by Soph, and i go by [she/they](https://en.pronouns.page/@sophb.chan) pronouns.
 
 **note**: i've recently started a [patreon page](https://www.patreon.com/sophb), and i'd really really really appreciate if you supported me!
 
@@ -38,9 +38,10 @@ as a side-note: i'm looking forward to learning C#, then C, and then Assembly La
   - anything related to regex
   - low-level system interactions and architectures
   - programming language syntax
-  - pushing programming languages to their limits (rip CPU usage)
-  - Ui and sound design
+  - pushing programming languages to their limits (RIP CPU usage)
+  - UI and sound design
   - modifying and transmitting data
+  - making scripts to do silly things on mass (you will not believe how many sites don't account for this)
 
 - my (non-programming related) interests are:
   - linguistics
@@ -64,7 +65,7 @@ as a side-note: i'm looking forward to learning C#, then C, and then Assembly La
 - Teal - chatbot for Multiplayer Piano (MPP) \[now defunct]
 - my site \[now defunct]
 - TealMIDIPlayer - userscript for MPP that plays MIDI files, based on Teal's MIDI player (hence the name)
-- /chat - chatting platform hosted on my site \[now defunct]
-- Project Noema - web-based, easily modifiable console environment \[need help from devs!]
+- /chat - chatting platform hosted on my site \[now defunct, could come back any time soon tho]
+- Project Noema - web-based, easily modifiable console environment
 
-![](https://komarev.com/ghpvc/?username=sophb-ccjt)
+![](https://komarev.com/ghpvc/?username=sophb-chan)
